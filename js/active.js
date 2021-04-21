@@ -16,7 +16,7 @@
 		});
 		 /* ityped js */
 	ityped.init("#ityped",{ 
-		strings : ['Myself Adil Raza   ' ,' I am MERN STACK developer ' ,],
+		strings : ['Myself Muhammad Hassan    ' ,' I am Full  STACK Cross side  developer ' ,],
 		loop:true,
 		typeSpeed:55,
 		backSpeed:20,
